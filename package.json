@@ -1,0 +1,30 @@
+{
+  "name": "StockEvery-API",
+  "version": "1.0.0",
+  "description": "StockEvery API Source Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Chen",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "ajv": "^6.12.2",
+    "bookshelf": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "fastify": "^2.14.1",
+    "fastify-cors": "^3.0.3",
+    "fastify-swagger": "^0.15.3",
+    "knex": "^0.21.1",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "node-cron": "^2.0.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
