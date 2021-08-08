@@ -3,13 +3,12 @@
 ## 使用方法
 
 ``` bash
-# install dependencies
+# 安裝 dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# 開始伺服器
 npm start
 
-curl localhost:3000
 ```
 ## 使用技術
 - Nodejs
