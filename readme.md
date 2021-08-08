@@ -1,8 +1,6 @@
-# A blazing fast REST APIs with Fastify, MySQL, Knex and Swagger.
 
-> A Node.js project
 
-## Build Setup
+## 使用方法
 
 ``` bash
 # install dependencies
@@ -13,7 +11,7 @@ npm start
 
 curl localhost:3000
 ```
-## Prerequisites
+## 使用技術
 - Nodejs
 - Fastify
 - MySQL
